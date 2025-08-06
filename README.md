@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/caiqueBTC" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/caiqueBTC.png" alt="TryHackMe Badge" height="50" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/caiqueBTC.png" alt="TryHackMe Badge" height="60" />
   </a>
 </div>
 
