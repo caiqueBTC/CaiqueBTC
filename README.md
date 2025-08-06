@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Caique and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Caique — a backend developer and cybersecurity enthusiast, passionate about cryptocurrencies. On the hunt like a honey badger: fearless, focused, and a bit wild 🦡💻💸</h2>
+
 
 ###
 
