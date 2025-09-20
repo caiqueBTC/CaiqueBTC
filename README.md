@@ -2,6 +2,10 @@
 
 ###
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiqueBTC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueBTC&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJkcnhvbmtrMWh1YzlzOWo1b3l0enl3dzlhZWNsMjNwM29ncjg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ccVKap5rw5AXYGHuEQ/giphy.gif"  />
 
